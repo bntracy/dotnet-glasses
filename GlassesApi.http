@@ -1,0 +1,6 @@
+@GlassesApi_HostAddress = http://localhost:5246
+
+GET {{GlassesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
